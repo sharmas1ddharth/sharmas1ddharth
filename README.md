@@ -6,10 +6,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
-[<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][linkedin]
+[<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
 [<img align="left" alt="Siddharth | twitter" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/twitter.svg" />][twitter]
 [<img align="left" alt="Siddharth | instagram" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/instagram.svg" />][instagram]
-
+[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/facebook.svg" />][facebook]
 <br />
 
 ### Languages and Tools:
@@ -45,3 +45,4 @@
 [twitter]: https://twitter.com/Siddhar32687284
 [instagram]: https://instagram.com/Mr.dead__pool___
 [linkedin]: https://www.linkedin.com/in/siddharth-sharma-329bb1106/
+[facebook]: https://www.facebook.com/profile.php?id=100013803645228
