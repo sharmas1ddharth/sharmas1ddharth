@@ -4,14 +4,14 @@
 
 ---
 
-### Connect with me:
-<div align=center>
+<div align=center><h3>Connect with me:</h3></div>
+
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
 [<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
 [<img align="left" alt="Siddharth | twitter" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/twitter.svg" />][twitter]
 [<img align="left" alt="Siddharth | instagram" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/instagram.svg" />][instagram]
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/facebook.svg" />][facebook]
-</div>
+
 <br />
 
 ---
