@@ -17,9 +17,7 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 <br />
 <br />
 
----
 
-<br/>
 <br/>
 
 ### Languages and Tools:
