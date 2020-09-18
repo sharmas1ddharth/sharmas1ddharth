@@ -1,16 +1,17 @@
-###<div align=center>Hello there, I am Siddharth Sharma</div>
+<div align=center><h3>Hello there, I am Siddharth Sharma</h3></div>
 
 <div align=center>You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.</div>
 
 ---
 
 ### Connect with me:
-
+<div align=center>
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
 [<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
 [<img align="left" alt="Siddharth | twitter" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/twitter.svg" />][twitter]
 [<img align="left" alt="Siddharth | instagram" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/instagram.svg" />][instagram]
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/facebook.svg" />][facebook]
+</div>
 <br />
 
 ---
