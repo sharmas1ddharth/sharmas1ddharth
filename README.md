@@ -5,10 +5,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vikalp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vikalp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vikalp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/tree/master/icons/social-media/email.png" />][email]
+
 
 
 <br />
@@ -42,7 +40,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=S1ddharth-Sharma" />
 
-[website]: 
-[twitter]: 
-[instagram]: 
-[linkedin]: 
+[email]: ssiddharth408@gmail.com
+[twitter]: https://twitter.com/Siddhar32687284
+[instagram]: https://instagram.com/Mr.dead__pool___
+[linkedin]: https://www.linkedin.com/in/siddharth-sharma-329bb1106/
