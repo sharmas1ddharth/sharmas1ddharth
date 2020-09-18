@@ -35,6 +35,7 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=S1ddharth-Sharma&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1ddharth-Sharma&layout=compact" />
 
 [email]: ssiddharth408@gmail.com
