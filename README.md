@@ -1,7 +1,8 @@
 ### Hello there, I am Siddharth Sharma
 
-<center>You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.</center>
+<div align=center>You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.</div>
 
+---
 
 ### Connect with me:
 
@@ -12,7 +13,7 @@
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/facebook.svg" />][facebook]
 <br />
 
---
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/visual-studio-code.svg" />
@@ -26,9 +27,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/django.svg" />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 
 
