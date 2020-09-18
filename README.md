@@ -35,9 +35,12 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=S1ddharth-Sharma" />
-
+<a href="https://github.com/S1ddharth-Sharma/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S1ddharth-Sharma&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/S1ddharth-Sharma/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S1ddharth-Sharma&repo=convoychat" />
+</a>
 [email]: ssiddharth408@gmail.com
 [twitter]: https://twitter.com/Siddhar32687284
 [instagram]: https://instagram.com/Mr.dead__pool___
