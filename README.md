@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/tree/master/icons/social-media/email.png" />][email]
+[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
 
 
 
