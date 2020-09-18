@@ -1,5 +1,4 @@
-### Hello there, I am Siddharth Sharma
-<br />
+## Hello there, I am Siddharth Sharma
 You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
 <br/>
 <br/>
@@ -16,11 +15,7 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 <br />
 <br />
 
-
-<br/>
-
-### Languages and Tools:
-
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/visual-studio-code.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/css.svg" />
