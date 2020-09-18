@@ -1,7 +1,7 @@
-<div align=center>### Hello there, I am Siddharth Sharma
+###<div align=center>Hello there, I am Siddharth Sharma</div>
 
-You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
-</div>
+<div align=center>You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.</div>
+
 ---
 
 ### Connect with me:
