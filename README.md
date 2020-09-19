@@ -1,7 +1,7 @@
 ## Hello there, I am Siddharth Sharma
 
 <br />
-[<img align="left" alt="Siddharth | email" width="22px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/giphy.mp4" />]
+[<img align="left" alt="Siddharth | email" width="22px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/giphy-downsized.gif"/>]
 
 
 You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
