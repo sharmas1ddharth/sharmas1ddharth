@@ -2,7 +2,7 @@
 
 <br />
 
-You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
+You have finally discovered my Github Profile. Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
 
 <br/>
 <br/>
