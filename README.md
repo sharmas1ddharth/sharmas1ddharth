@@ -6,15 +6,13 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 
 <br/>
 <br/>
-<p align = "center"><img alt="Siddharth | email" width="150px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/source.gif" /></p>
----
+<p align = "center"><img alt="Siddharth | email" width="200px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/source.gif" /></p>
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ## Connect with me:
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
