@@ -1,11 +1,16 @@
 ## Hello there, I am Siddharth Sharma
+
+<br />
+
+<iframe src="https://giphy.com/embed/8Bl38gdtUK7WDdi59y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 You have finally discovered my Github Profile. <br/>Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
 <br/>
 <br/>
 
 ---
 <br />
-<br />
+
 
 ## Connect with me:
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
