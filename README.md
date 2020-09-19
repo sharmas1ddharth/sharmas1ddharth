@@ -6,7 +6,7 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 
 <br/>
 <br/>
-<div align ="center"><img align="left" alt="Siddharth | email" width="150px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/source.gif"/></div>
+<div align ="center">[<img align="left" alt="Siddharth | email" width="150px" src="https://media.giphy.com/media/8Bl38gdtUK7WDdi59y/source.gif" />]</div>
 ---
 <br />
 <br />
