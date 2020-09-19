@@ -4,7 +4,8 @@ You have finally discovered my Github Profile. <br/>Please feel free to clone/fo
 <br/>
 
 ---
-
+<br />
+<br />
 ## Connect with me:
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
 [<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
