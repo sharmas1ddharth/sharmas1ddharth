@@ -1,5 +1,6 @@
 ## Hello there, I am Siddharth Sharma
 ![Total Views](https://views.whatilearened.today/views/github/sharmas1ddharth/sharmas1ddharth.svg)
+![GitHub followers](https://img.shields.io/github/followers/sharmas1ddharth?style=for-the-badge)
 <br />
 
 You have finally discovered my Github Profile. Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
