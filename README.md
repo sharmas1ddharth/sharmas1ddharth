@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[My Email](mailto:ssiddharth408@gmail.com);
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/1JRGK7k6WWqLT76TKglYw8f85nTGsciFG/view?usp=sharing)
 
 
 <br />
