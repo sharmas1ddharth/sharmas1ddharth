@@ -44,7 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="left" alt="Siddharth's Github" src="https://github.com/sharmas1ddharth/sharmas1ddharth/blob/master/icons/portfolio/github.png" />
 </a>
 <a href="mailto:ssiddharth408@gmail.com">
-  <img align="left" alt="Siddharth's Email" src="https://github.com/sharmas1ddharth/sharmas1ddharth/blob/master/icons/portfolio/email.png" />
+  <img align="left" alt="Siddharth's Email" src="https://github.com/sharmas1ddharth/sharmas1ddharth/blob/gh-pages/icons/email.png" />
 </a>
 
 
