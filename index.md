@@ -35,7 +35,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 
-## Connect with me : 
+## Connect with me :
+
+![](https://github.com/sharmas1ddharth/sharmas1ddharth/blob/master/icons/portfolio/linkedin.png)
 
 <a href="https://www.linkedin.com/in/sharmas1ddharth/">
   <img align="left" alt="Siddharth's LinkedIN" src="https://github.com/sharmas1ddharth/sharmas1ddharth/blob/master/icons/portfolio/linkedin.png" />
