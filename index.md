@@ -1,12 +1,4 @@
 # Siddharth Sharma
-<br />
-
-<a href="https://www.twitter.com/sharmas1ddharth/">
-  <img align="left" alt="Siddharth Sharma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sharmas1ddharth/">
-  <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br/>
 <br />
 Hi, I'm Siddharth Sharma, a passionate self-taught Python developer and Machine Learning Enthusiast from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -43,10 +35,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 
-📈 My GitHub Stats
+## Connect with me : 
+<a href="https://www.twitter.com/sharmas1ddharth/">
+  <img align="left" alt="Siddharth Sharma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharmas1ddharth&show_icons=true" alt="Siddharth Sharma" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmas1ddharth&layout=compact" />
+<a href="https://www.linkedin.com/in/sharmas1ddharth/">
+  <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 
 
