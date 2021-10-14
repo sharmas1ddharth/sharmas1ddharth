@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sharmas1ddharth](https://github.com/sharmas1ddharth)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/sharmas1ddharth](https://github.com/sharmas1ddharth) -->
 
-- 📝 I regularly write articles on [https://medium.com/@ssiddharth408](https://medium.com/@ssiddharth408)
+- 📝 I regularly write articles on [medium](https://medium.com/@ssiddharth408)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
 - 📫 How to reach me **ssiddharth408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharing](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
