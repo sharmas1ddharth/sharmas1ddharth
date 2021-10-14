@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ My Interests **Photography, Space Exploration, Volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
