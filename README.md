@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Loan Prediction Project](https://github.com/sharmas1ddharth/loan-prediction)
 
-- 🌱 I’m currently learning **Data Science and Deep Learning**
+- 🌱 I’m currently learning **R programming language**
 
 - 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty)
 
