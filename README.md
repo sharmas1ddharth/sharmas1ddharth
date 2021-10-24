@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty)
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/sharmas1ddharth](https://github.com/sharmas1ddharth) -->
+- 👨‍💻 Check out my portfolio [http://siddharthsharma.tech](http://siddharthsharma.tech)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@ssiddharth408)
 
