@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ssiddharth408@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LseeyJU7Q5m4VgDSluv7cZic6V7k4CNj/view?usp=sharin)
 
 - ⚡ My Interests **Photography, Space Exploration, Volleyball**
 
