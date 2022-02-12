@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sharmas1ddharth" target="blank"><img src="https://img.shields.io/twitter/follow/sharmas1ddharth?logo=twitter&style=for-the-badge" alt="sharmas1ddharth" /></a> </p>
 
-- 🔭 I’m currently working on [Loan Prediction Project](https://github.com/sharmas1ddharth/loan-prediction)
+<!-- - 🔭 I’m currently working on [Loan Prediction Project](https://github.com/sharmas1ddharth/loan-prediction) -->
 
 - 🌱 I’m currently learning **R programming language**
 
-- 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty)
+<!-- - 🤝 I’m looking for help with [Converty](https://github.com/sharmas1ddharth/converty) -->
 
 - 👨‍💻 Check out my portfolio [http://siddharthsharma.tech](http://siddharthsharma.tech)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@ssiddharth408)
+<!-- - 📝 I regularly write articles on [medium](https://medium.com/@ssiddharth408) -->
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
