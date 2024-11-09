@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Vision<br>👨‍💻 Check out my portfolio http://siddharthsharma.tech<br>💬 Ask me about Python, Machine Learning, and Data Science<br>📫 How to reach me ssiddharth408@gmail.com<br>📄 Know about my experiences Resume<br>⚡ My Interests Photography, Space Exploration, Volleyball
+🌱 I’m currently learning Computer Vision<br>👨‍💻 💬 Ask me about Python, Machine Learning, and Data Science<br>📫 How to reach me ssiddharth408@gmail.com<br>📄 Know about my experiences Resume<br>⚡ My Interests Photography, Space Exploration, Volleyball
 
 
 ## 🌐 Socials:
